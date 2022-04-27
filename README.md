@@ -1,5 +1,5 @@
 # URL WEBSITE NETLIFY
-[READ MY WORK](https://62696412037bd704da0b00d1--serene-macaron-d9a905.netlify.app/)
+[LOOK MY WORK](https://62696412037bd704da0b00d1--serene-macaron-d9a905.netlify.app/)
 
 # Getting Started with Create React App
 
